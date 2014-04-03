@@ -12,4 +12,4 @@ It's a quick'n'dirty code.
 
 The UI is made with the Twitter Bootstrap.
 
-You can add DOLAN as a web app using the Chrome Beta on android.
+You can add DOLAN as a web app using the Chrome on android.

@@ -4,3 +4,17 @@ body {
 	margin-left: 1%;
 
 }
+
+.lab1 {
+	text-align: center;
+	max-width: 130px;
+}
+
+.bt1 {
+	margin-left: 5px;
+}
+
+.info {
+	margin-bottom: 15px;
+	margin-top: 1px;
+}
