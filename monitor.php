@@ -19,7 +19,7 @@ $main_user = "servers";
 $name = "Jarvis"; // The name of your server (Not used that much)
 
 // ---Function list ([GFX] is for functions that return html code for graphics purpose) ---
-/**
+/*
 isup($ip : String , $port : String) - return true if the port linked to the ip is up
 
 srvUP() - [GFX] return bootstrap label with state of the server
@@ -51,7 +51,7 @@ Max is the maximum value.
 
 
 
-**/
+*/
 
 
 if((isset($_GET['func']))&&(function_exists($_GET['func'])))   //Called every time	
